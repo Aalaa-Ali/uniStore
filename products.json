@@ -1,0 +1,31 @@
+[{
+    "name": "iMac 27 Retina",
+    "price": "$2099.99",
+    "type": "Desktop",
+    "img": "../assets/img/products/apple-imac-27-retina.jpg"
+}, {
+    "name": "iMac 27 Retina",
+    "price": "$2099.99",
+    "type": "Desktop",
+    "img": "../assets/img/products/apple-imac-27-retina.jpg"
+}, {
+    "name": "iPad Air",
+    "price": "$449.99",
+    "type": "Tablets",
+    "img": "../assets/img/products/ipad-air.jpg"
+}, {
+    "name": "iPad Mini",
+    "price": "$399.99",
+    "type": "Tablets",
+    "img": "../assets/img/products/ipad-mini.jpg"
+}, {
+    "name": "Mi Pad 2",
+    "price": "$199.99",
+    "type": "Tablets",
+    "img": "../assets/img/products/mi-pad-2.jpg"
+}, {
+    "name": "Surface Studio",
+    "price": "$3749.99",
+    "type": "Laptops",
+    "img": "../assets/img/products/microsoft-surface-studio.jpg"
+}]
